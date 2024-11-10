@@ -20,7 +20,6 @@ Hệ thống quản lý bán cá Koi của trang trại. Dự án này giúp t�
    - **Chứng nhận kèm theo**:
      - Giấy chứng nhận nguồn gốc xuất xứ
      - Tình trạng sức khỏe
-     - Giấy chứng nhận giải thưởng (nếu có)
 
 4. **Quản Lý Khách Hàng & Lịch Sử Đơn Hàng**
    - Lưu trữ thông tin khách hàng và quản lý lịch sử giao dịch của họ.
