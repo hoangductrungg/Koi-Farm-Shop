@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KoiFarmShop", "KoiFarmShop.csproj", "{2D1D4F6A-A22F-4928-8388-3890344005DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_01", "..\Demo_01\Demo_01.csproj", "{D0FB783A-38E4-4FF7-8AF5-3BFB270189DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D1D4F6A-A22F-4928-8388-3890344005DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1D4F6A-A22F-4928-8388-3890344005DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1D4F6A-A22F-4928-8388-3890344005DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1D4F6A-A22F-4928-8388-3890344005DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0FB783A-38E4-4FF7-8AF5-3BFB270189DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FB783A-38E4-4FF7-8AF5-3BFB270189DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FB783A-38E4-4FF7-8AF5-3BFB270189DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FB783A-38E4-4FF7-8AF5-3BFB270189DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6070E24A-E794-4CD7-95A0-C5ADF05CBE04}
+	EndGlobalSection
+EndGlobal
